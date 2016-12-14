@@ -1,3 +1,6 @@
+#ifndef _RELATION_H
+#define _RELATION_H
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -32,3 +35,5 @@ public:
 	void relation_print();	//输出性质判断结果
 
 };
+
+#endif
